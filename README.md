@@ -38,7 +38,9 @@
 
 
 ## Output
-![image](https://github.com/Vaishnavi-saravanan/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118541897/f83e4ccb-100f-4622-a1b9-34e275132de6)
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118541897/dfa74bff-12f4-4993-9d41-b16efda634d9)
+
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118541897/f47c0dc8-4ac0-4893-8531-558766498423)
 
 
 ### Name:VAISHNAVI S
